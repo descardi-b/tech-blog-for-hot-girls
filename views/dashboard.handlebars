@@ -1,4 +1,5 @@
 <section>
+
   <h2>Create New Post</h2>
 
   <form class="new-post-form">
@@ -25,6 +26,11 @@
     </li>
     {{/each}}
   </ol>
+</section>
+{{else}}
+<section>
+  <h2>Your Posts</h2>
+  <p>You don't have any posts yet!</p>
 </section>
 {{/if}}
 
