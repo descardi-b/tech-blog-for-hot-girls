@@ -9,7 +9,7 @@ Here's a handy application for any hottie hacker babes looking to:
 - comment to their heart's content 
 
 ## How to use
-Simply deploy the app on <a href="https://fierce-mesa-88809.herokuapp.com/">Heroku</a>
+Simply deploy the app on <a href="https://obscure-citadel-61027.herokuapp.com/">Heroku</a>
 
 ## How it was built
 This app was created for the UC Berkeley Full Stack Development course. It utilizes
